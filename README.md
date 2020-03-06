@@ -15,6 +15,7 @@ Matching is done in a case insensitive fasion.
 The script will confirm the changes prior to making them
 
 Authentication:
+---------------------------------------
     This script will attempt to authenticate with the CloudGenix controller
     software using an Auth Token or through interactive authentication.
     The authentication selection process happens in the following order:
